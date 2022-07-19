@@ -39,4 +39,4 @@ jobs:
           app-name: 'ellaburltools'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_691B9F71223C43A68BFFB74DDD1BA741 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_479FE4B90AAF4EBC95472651E85B993B }}
